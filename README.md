@@ -1,9 +1,9 @@
-## Hi there 👋
+# Hi, I'm Cindy :)
+Behavioral & Social Data Science (Honors) at UT Austin, graduating May 2027.
 
-<!--
-**NiftyCIndy/NiftyCindy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on EEG/BCI machine learning at Longhorn Neurotech and fMRI research at the Lewis-Peacock Lab.
 
-I am Cindy Sanders. I am a BSDS Major at UT Austin who is interested in Neuroscience and Psychiatry!
-
-Hello 
--->
+## Projects
+- **eeg-motor-imagery-bci2a**: PyTorch pipeline for left vs. right motor imagery on a public dataset
+- **lhnt-eeg-1dcnn-baseline**: 1D CNN baseline for EEG recordings 
+- **FinalProject_EEG**: 
